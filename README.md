@@ -19,7 +19,7 @@ Este portafolio interactivo reúne casos reales de branding, rediseño de marca,
 
 ## 🌐 Portafolio en Vivo
 
-👉 **[Ver Portafolio de Diseño en Vivo](https://jeapaola-jpg.github.io/portafolio-diseno/)**
+👉 **[Ver Portafolio de Diseño en Vivo](https://jeanny-tole-dev.github.io/portafolio-diseno/)**
 
 ---
 
